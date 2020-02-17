@@ -1,0 +1,449 @@
+﻿/* Eléments principaux de la page */
+
+body
+{
+    background: url('../images/background-BEVC.png') center 0;
+    font-family: ‘Trebuchet MS’, Helvetica, sans-serif;
+    background-color:#01245c;
+	background-repeat: no-repeat;
+	
+}
+a { 
+color: inherit; 
+text-decoration:underline;
+} 
+#bloc_page
+{
+    width: 960px;
+    margin: auto;
+}
+
+section h1, footer h1, nav a
+{
+    font-family: 'Allan', Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+/* Header */
+
+#titre_principal
+{
+    display: inline-block;
+}
+
+header h1
+{
+    font-family: 'Allan', Helvetica, Arial, sans-serif;
+    font-size: 2.5em;
+    font-weight: normal;
+}
+
+#logo, header h1
+{
+    display: inline-block;
+    margin-bottom: 0px;
+}
+
+header h2
+{
+    font-family: Dayrom, serif;
+    font-size: 1.1em;
+    margin-top: 0px;
+    font-weight: normal;
+}
+
+#dropdown
+{
+   
+    position: relative;
+    margin-bottom: 5px;
+	margin-left: 150px;
+	
+}
+/*#slideshow*/
+#event
+{
+	position: relative;
+    margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 25px;
+	/*border-style:solid;
+	border-width:5px;
+	border-color:white;*/
+}*/
+
+#next_games
+{
+width: 525px;
+position: relative;
+/*float: right;*/
+}
+#last_res
+{
+margin-top: 25px;
+width: 525px;
+position: relative;
+/*float: left;*/
+}
+
+#femmes
+{
+width: 450px;
+float: right;
+}
+#hommes
+{
+width: 470px;
+float: left;
+}
+
+#slideshow-photos
+{
+	position: relative;
+    margin-top: 25px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 25px;
+	border-style:solid;
+	border-width:5px;
+	border-color:white;
+}
+
+#new-slideshow-photos
+{
+	position: relative;
+    margin-top: 25px;
+	margin-left: 28px;
+	margin-right: 28px;
+	margin-bottom: 25px;
+	border-style:solid;
+	border-width:5px;
+	border-color:white;
+}
+
+.headerX
+{
+	position: relative;
+	margin-left: 15px;   
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+	color: white;
+	background-image:linear-gradient(#3c8bcd, #3883C1);
+	text-align: center;
+	font-family: 'Allan', Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+    font-weight: normal;
+	margin-bottom: 10px;
+}
+
+
+
+.bodyX
+{
+	position: relative;
+	margin-left: 15px;
+	margin-bottom: 25px;    
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+	color: white;
+	background-image:linear-gradient(#3883C1, #01245c);
+	text-align: center;
+	overflow:auto; 
+}
+
+.bodyX img
+{
+	max-width: 900px;
+}
+
+.bodyX table
+{
+	font-size: 0.7em;
+}
+#full
+{
+	margin-top: 50px;
+	text-align: center;
+	width: 945px;
+	min-height:600px;
+}
+#list 
+{
+	margin-top: 15px;
+	margin-bottom:100px;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+#list_element_contact
+{
+	padding-top: 105px;
+}
+
+#list_element_salles
+{
+	padding-top: 15px;
+	font-size: 1.5em;
+}
+
+#list img
+{
+	height: 68px;
+	width:auto;
+	box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+}
+
+.right_50
+{
+	position: relative;
+	float:right;
+	width:50%;
+	
+}
+.left_50
+{
+	position: relative;
+	width:50%;
+	
+}
+.right_20
+{
+	position: relative;
+	float:right;
+	width:20%;
+}
+.left_80
+{
+	position: relative;
+	width:80%;
+}
+
+.Titre
+{
+	padding-left: 25px ;
+	float: left;
+		font-size: 1.2em;
+}
+.TitreNom
+{
+	padding-top: 0px ;
+	margin-left: 125px ;	
+	float: left;
+		font-size: 1.2em;
+}
+.TitreMail
+{
+	padding-top: 0px ;
+	padding-left: 25px ;
+	float: right;
+}
+#event_left
+{
+	padding-top: 50px ;
+	padding-left: 25px ;
+	float: left;
+}
+#event_right
+{
+	padding-top: 10px ;
+	padding-bottom: 10px ;
+}
+
+#right_side_FB
+{
+	position: relative;
+    margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 25px;    
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+	color: white;
+	background-color: white;
+}
+
+  table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+  
+#h1
+{
+  font-family: 'Allan', Helvetica, Arial, sans-serif;
+  font-size: 1.5em;
+  }
+  
+#victory
+{
+	color: #01B00D;
+	text-shadow: black 0.1em 0.1em 0.2em
+}
+
+#defeat
+{
+	color:#FF0000;
+	text-shadow: black 0.1em 0.1em 0.2em
+}
+
+
+/* Bannière */
+
+#banniere_image
+{
+    margin-top: 10px;
+    position: relative;
+    margin-bottom: 5px;
+
+}
+
+/* Corps */
+
+article, aside, allpage
+{
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+}
+
+article
+{
+    width: 525px;
+    
+}
+
+article p, allpage p
+{
+    font-size: 0.8em;
+}
+
+aside
+{
+    position: relative;
+    width: 390px;
+    padding: 10px;
+    font-size: 0.9em;
+	text-align: center;
+	margin-top:20px;
+}
+
+/* Footer */
+
+footer
+{
+    padding-top: 25px;
+}
+
+footer p
+{
+    font-size: 0.9em;
+	font-family: Helvetica, Arial;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+footer h1
+{
+	margin-left: 15px;
+	font-family: 'Allan', Helvetica, Arial, sans-serif;
+    font-size: 1.1em;
+	
+}
+.footerheaderX
+{
+
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+	background-image:linear-gradient(white, #EAF0F5);
+	text-align: center;
+	font-family: 'Allan', Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+    font-weight: normal;
+	margin-bottom: 10px;
+}
+
+
+
+.footerbodyX
+{
+
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+	background-image:linear-gradient(#EAF0F5, #3c8bcd);
+	padding: 5px 5px 5px 5px ;
+	text-align: center;
+}
+
+
+#footer_left
+{
+	position: relative;
+    width: 68%;
+}
+
+#footer_right
+{
+    float: right;
+    position: relative;
+    text-align: left;
+    width: 31%;
+}
+
+#footer_left img
+{
+
+    border: 1px solid #181818;
+    margin-right: 2px;
+}
+.img1st
+{
+	height: 67px;
+	width:auto;
+}
+
+.img2nd
+{
+	height: 39px;
+	width:auto;
+}
+
+#footer_right img
+{
+
+    border: 1px solid #181818;
+    margin-right: 2px;
+}
+.img1st
+{
+	height: 62px;
+	width:auto;
+}
+
+.img2nd
+{
+	height: 68px;
+	width:auto;
+}
+
+
+/* Correctifs pour les vieilles versions d'Internet Explorer */
+
+/* Pour activer un positionnement type inline-block sur les vieilles versions d'IE */
+
+.old_ie #titre_principal, .old_ie #logo, .old_ie header h1, .old_ie nav, .old_ie nav li, .old_ie .bouton_rouge, .old_ie article, .old_ie aside, .old_ie #tweet, .old_ie #mes_photos, .old_ie #mes_amis, .old_ie #mes_amis ul
+{
+    display: inline;
+    zoom: 1;
+}
+
+/* Quelques ajustements pour les vieilles versions d'IE */
+
+.old_ie section h1, .ie8 section h1
+{
+    font-size: 1.1em;
+}
+
+.old_ie footer div, .ie8 footer div
+{
+    margin-top: 30px;
+    background: url('images/separateur.png') repeat-x top;
+}
+
