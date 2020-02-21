@@ -11,21 +11,27 @@
 <body>
 	<header>
 		<?php include $location . 'includes/menu.php';  ?>
+		<div class="pic_presentation">
+			<div class="inner_pic_presentation">
+				<h3 class="title_header_block">Académie</h3>
+			</div>
+		</div>
 	</header>
 	<main>
-		<div class="container">
+		<div class="container_personnal_content">
 			<div class="intro">
 				<p>Nous vous remercions d'avoir choisi le BEVC pour la pratique du volley ball. 
 					Vous aurez la possibilité d'accompagner, d'encourager et de voir évoluer votre enfant.</p>
 				<p>Vous trouverez toutes les informations concernant 
-					l'équipe jeune mais aussi concernant l'acadéimie.
+					l'équipe jeune mais aussi concernant l'académie.
 				</p>
 			</div>
 			<div class="title">
 				<h2>Equipe des jeunes</h2>
 			</div>
-			<div class="jong_content">
-				<h4>Inscription / ré-inscription</h4>
+			<div class="young_content">
+				<div class="info_text_section">
+					<h4>Inscription / ré-inscription</h4>
 				<p>Pour une inscription, plusieurs documents à remplir vous seront demandé: 
 				<ul>
 					<li>Un document d'affiliation</li>
@@ -46,7 +52,7 @@
 				</p>
 				<p>En cas d'accident, que mon enfant se blesse, veuillez télécharger et imprimer la déclaration d'accident,
 					 l'envoyer à la fédération après la visite médicale. Vous devez ensuite prévenir Marc Philippart et votre entraineur.<br>
-					<a href="../documents/Declaration Accident ETHIAS.pdf"><button>Déclaration d'accident</button></a>
+					<a href="../documents/Declaration Accident ETHIAS.pdf"><button class="btn btn-download">Déclaration d'accident</button></a>
 				</p>
 				<p>Lors d'un changement de club, c'est au nouveau club de comlêter et de transmettre la demande de transfert à la fédération.</p>
 
@@ -56,12 +62,15 @@
 						<li>260 € pour le second enfant</li>
 						<li>240 € à partir du 3ème enfant</li>
 					</ul>
+				</p>
+				<p>
 					Le montant est à verser sur le compte <span class="bank_account">BE52 7512 0433 8009</span> avec comme mention "section junior"
 				 	ainsi que le nom et prénom de votre enfant.
 					Un étalement de la cotisation est possible en consultant notre trésorier, de préférence par mail :
-					Marc Vandame: <a href="mailto:tresorier@bruxellesestvolley.be">tresorier@bruxellesestvolley.be</a>  ou
-				 <a href="mailto:volley@skynet.be">volley@skynet.be</a> ou <a href="tel:+32475908594">+32475908594</a></p>
-				 <h4>Conatcts</h4>
+					Marc Vandame: par mail: <a href="mailto:tresorier@bruxellesestvolley.be">tresorier@bruxellesestvolley.be</a>  ou
+				 <a href="mailto:volley@skynet.be">volley@skynet.be</a> par téléphone au:  <a href="tel:+32475908594">+32475908594</a>
+				</p>
+				 <h4>Contacts</h4>
 				 <p>Toutes les informations se font essentiellement via: 
 					 <ul>
 						 <li><a href="https://teamstuff.com/fr/join/bevc-jeunes/83295cfc">Teamstuff</a></li>
@@ -115,15 +124,20 @@
           <p>Chaque enfant est succectible de changer de groupe au cours de la saison.</p>
          </div>
          <div class="sporthall">
-         <p>
-          <ul>
-            <li>Salle Malou ( stade Fallon ) : Chemin de Struykbeken 2, 1200 Bruxelles</li>
-            <li>Salle Omnisport Auderghem : 3ème étage, Entrée Chaussée de Wavre 1690, 1200 Bruxelles</li>
-          </ul>
-         </p>
+					<p>
+						<ul>
+							<li>Salle Malou ( stade Fallon ) : Chemin de Struykbeken 2, 1200 Bruxelles</li>
+							<li>Salle Omnisport Auderghem : 3ème étage, Entrée Chaussée de Wavre 1690, 1200 Bruxelles</li>
+						</ul>
+					</p>
          </div>
+				</div>
+				<div class="info_image_section">
+					<picture>
+						<img src="../images/content_img/img_jeunes_3.png" alt="">
+					</picture>
+				</div>
 			</div>
-
 
 
 
