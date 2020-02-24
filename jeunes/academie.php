@@ -20,23 +20,19 @@
 	<main>
 		<div class="container_personnal_content">
 			<div class="intro">
-				<p>Nous vous remercions d'avoir choisi le BEVC pour la pratique du volley ball. 
-					Vous aurez la possibilité d'accompagner, d'encourager et de voir évoluer votre enfant.</p>
-				<p>Vous trouverez toutes les informations concernant 
-					l'équipe jeune mais aussi concernant l'académie.
-				</p>
+				<p>La section élite de l'école de jeunes du BEVC a vu le jour en septembre 2018.<br>
+				Le but de cette académie est de développer des jeunes vers le haut niveau tant physique que mental.<br>
+				Ce projet demande énormément d'investissement de la part du club et du staff qui encadre cette section.</p>
 			</div>
       <div class="title">
 				<h2>Académie</h2>
 			</div>
-			<div class="academy_content">
-				<p>La section élite de l'école de jeunes du BEVC a vu le jour en septembre 2018.
-				Le but de cette académie est de développer des jeunes vers le haut niveau tant physique que mental.
-				Ce projet demande énormément d'investissement de la part du club et du staff qui encadre cette section.
-				</p>
-				<div class="modality">
+			<div class="young_content">
+				<div class="info_text_section">
 					<h4>Lieu des entrainements</h4>
-					<p>Collège Don Bosco <br> 270, Chaussée de Stockel <br> 12000 Bruxelles</p>
+					<div class="location">
+						<p>Collège Don Bosco <br> 270, Chaussée de Stockel <br> 12000 Bruxelles</p>
+					</div>
           <h4>Horaire</h4>
           <table class="table table-striped">
             <thead>
@@ -91,6 +87,11 @@
 							<li>Marc pour le secrétariat</li>
 						</ul>
 					</p>
+				</div>
+				<div class="info_image_section">
+					<picture>
+						<img src="../images/content_img/img_jeunes_3.png" alt="">
+					</picture>
 				</div>
 			</div>
 		</div>

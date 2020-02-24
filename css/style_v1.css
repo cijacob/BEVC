@@ -641,6 +641,19 @@ a:hover{
 	justify-content: center;
 	align-items: center;
 }
+.young_content .info_text_section h4{
+	margin-bottom: 30px;
+}
+.young_content .info_text_section .location {
+	display: flex;
+}
+.young_content .info_text_section .location:before{
+	font-family:"FontAwesome";
+	content:"\f276";
+	color: #025BF5;
+	font-size: 2.5em;
+	margin-right: 30px;
+}
 .young_content .info_image_section img{
 	max-width: 600px;
 	box-shadow: 6px 10px 20px rgba(213,213,213,.49);
