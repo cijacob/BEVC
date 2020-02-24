@@ -79,7 +79,7 @@
 
 	<div class="hp__sponsors">
 		<div class="title">
-			<h2>Merci à nos sponsors!</h2>
+			<h2>Merci à nos sponsors et nos partenaires!</h2>
 		</div>
 		<?php include $location . 'includes/sponsors.php'; ?>
 	</div>

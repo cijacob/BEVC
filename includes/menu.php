@@ -19,9 +19,9 @@
 					Equipes
 					</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-						<a class="dropdown-item" href="<?php echo $location . 'infos/contact.php'?>">Dames</a>
-						<a class="dropdown-item" href="<?php echo $location . 'infos/salles.php'?>">Homes</a>
-						<a class="dropdown-item" href="<?php echo $location . 'infos/faq.php'?>">Jeunes</a>
+						<a class="dropdown-item" href="<?php echo $location . 'equipes/femmes.php'?>">Dames</a>
+						<a class="dropdown-item" href="<?php echo $location . 'equipes/hommes.php'?>">Homes</a>
+						<a class="dropdown-item" href="<?php echo $location . 'jeunes/jeunes.php'?>">Jeunes</a>
 					</div>
 				</li>
 				<li class="nav-item dropdown">
