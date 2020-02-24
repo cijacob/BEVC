@@ -13,6 +13,7 @@
 				<li class="nav-item active"><a class="nav-link" href="<?php echo $location . 'index_new.php'?>">Accueil</a></li>
 				<li class="nav-item"><a class="nav-link"  href="<?php echo $location . '2022.php'?>">BEVC 2022</a></li>
 				<li class="nav-item"><a class="nav-link" href="<?php echo $location . 'jeunes/jeunes.php'?>">Jeunes</a></li>
+				<li class="nav-item"><a class="nav-link" href="<?php echo $location . 'jeunes/academie.php'?>">Académie</a></li>
 				<li class="nav-item dropdown">
 					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 					Equipes

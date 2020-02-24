@@ -7,31 +7,31 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/homepage/unsplash_one.jpg" class="d-block w-100" alt="...">
+      <img src="images/homepage/slide_05.png" class="d-block w-100" alt="...">
       <div class="carousel-caption bloc_infos">
         <h3 class="animated fadeInDown">Nos équipes Hommes</h3>
-				<p class="animated fadeInDown"><a href="https://www.qscar.be">Découvrir</a></p>
+				<p class="animated fadeInDown"><a href="<?php echo $location . 'equipes/hommes.php'?>">Découvrir</a></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/homepage/unsplash_two.jpg" class="d-block w-100" alt="...">
+      <img src="images/homepage/slide_02.png" class="d-block w-100" alt="...">
       <div class="carousel-caption bloc_infos">
 				<h3 class="animated fadeInDown">Nos équipes Femmes</h3>
-				<p class="animated fadeInDown"><a href="#">Découvrir</a></p>
+				<p class="animated fadeInDown"><a href="<?php echo $location . 'equipes/femmes.php'?>">Découvrir</a></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="images/homepage/unsplash_three.jpg" class="d-block w-100" alt="...">
+      <img src="images/homepage/slide_04.png" class="d-block w-100" alt="...">
       <div class="carousel-caption bloc_infos">
 				<h3 class="animated fadeInDown">Nos équipes Jeunes</h3>
-				<p class="animated fadeInDown"><a href="#">Découvrir</a></p>
+				<p class="animated fadeInDown"><a href="<?php echo $location . 'jeunes/jeunes.php'?>">Découvrir</a></p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="images/homepage/BEVC_N2.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption bloc_infos">
 				<h3 class="animated fadeInDown">Notre Académie</h3>
-				<p class="animated fadeInDown"><a href="#">Découvrir</a></p>
+				<p class="animated fadeInDown"><a href="<?php echo $location . 'jeunes/jeunes.php'?>">Découvrir</a></p>
       </div>
     </div>
   </div>

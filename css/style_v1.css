@@ -20,6 +20,9 @@ body{
 header{
 	min-height: 100vh;
 }
+a:hover{
+	text-decoration: none;
+}
 .container_bevc a, 
 .container_bevc a:focus,
 .container_bevc a:visited, 
@@ -491,26 +494,67 @@ a:hover{
 	box-sizing: border-box;
 }
 .inner_contact .header_contact{
-	height: 380px;
+	height: 350px;
 	background-color: rgba(0, 97, 145, 0.45);
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
 .contacts .inner_contact .header_contact .img_contact{
-	width: 160px;
-	height: 160px;
-	background-image: url('../images/stephane_hennaut_img.jpg');
+	width: 180px;
+	height: 180px;
 	margin: 50px 0 0 0;
 	background-position: center;
 	background-size: cover;
 	border-radius: 50%;
-	box-shadow: 0 0 0 0.8em rgba(0, 0, 0, 0.2), 0 0 0 1em rgba(161, 220, 255, 0.35);
+	box-shadow: 0 0 0 0.8em rgba(112, 15, 7, 0.3), 0 0 0 1em rgba(236, 59, 38, 0.35);
 }
+.img_contact.img_contact_00{
+	background-image: url('../images/staff/stephane_hennaut_img.jpg');
+}
+.img_contact.img_contact_01{
+	background-image: url('../images/staff/staff_profile_img.png');
+}
+.img_contact.img_contact_02{
+	background-image: url('../images/staff/staff_profile_img.png');
+}
+.img_contact.img_contact_03{
+	background-image: url('../images/staff/staff_profile_img.png');
+}
+.img_contact.img_contact_04{
+	background-image: url('../images/staff/staff_profile_img.png');
+}
+.img_contact.img_contact_05{
+	background-image: url('../images/staff/staff_profile_img.png');
+}
+.img_contact.img_contact_06{
+	background-image: url('../images/staff/staff_profile_img.png');
+}
+.img_contact.img_contact_07{
+	background-image: url('../images/staff/staff_profile_img.png');
+}
+.img_contact.img_contact_08{
+	background-image: url('../images/staff/staff_profile_img.png');
+}
+.img_contact.img_contact_09{
+	background-image: url('../images/staff/fred_vs_img.jpg');
+}
+.img_contact.img_contact_10{
+	background-image: url('../images/staff/staff_profile_img.png');
+}
+.img_contact.img_contact_11{
+	background-image: url('../images/staff/staff_profile_img.png');
+}
+.img_contact.img_contact_12{
+	background-image: url('../images/staff/cindy_jacob_img.jpg');
+}
+
+
 .contacts .inner_contact img{
 	width: 175px;
 }
 .header_contact h4{
+	font-family: 'Quicksand', sans-serif;
 	margin: 170px 0 0 0;
 	color: white;
 	font-weight: normal;
@@ -529,6 +573,26 @@ a:hover{
 .inner_contact .infos_contact .mail_contact .fa,
 .inner_contact .infos_contact .mail_contact a{
 	color: white;
+}
+.inner_contact .infos_contact .mail_contact a:hover{
+	text-decoration: none;
+}
+.title_contact{
+	text-align: center;
+}
+.title_contact span{
+	text-transform: uppercase;
+	font-family: 'Quicksand', sans-serif;
+}
+.mail_contact a{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.mail_contact a{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
 }
 
 /* Jeunes */ 

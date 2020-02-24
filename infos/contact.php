@@ -22,7 +22,7 @@
 			<div class="contacts">
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_00">
 							<img src="" alt="">
 							<h4><i class="fa fa-user"></i><br><span>Stéphane Hennaut</span></h4>
 						</div>
@@ -32,13 +32,29 @@
 							<span>Président BEVC </span> <span> administrateur de l'asbl, </span> <span>responsable marketing et communication</span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:president@bruxellesestvolley.be">president@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:president@bruxellesestvolley.be"><i class="fa fa-envelope"></i>president@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_01">
+							<img src="" alt="">
+							<h4><i class="fa fa-user"></i><br><span>Luc Pourbaix</span></h4>
+						</div>
+					</diV>
+					<div class="infos_contact">
+						<div class="title_contact">
+							<span>Responsable Sportif</span> <span> Responsable marketing</span> 
+						</div>
+						<diV class="mail_contact">
+							<a href="mailto:responsablesportif@bruxellesestvolley.be"><i class="fa fa-envelope"></i>responsablesportif@bruxellesestvolley.be</a>
+						</diV>
+					</div>
+				</div>
+				<div class="inner_contact">
+					<diV class="header_contact">
+						<div class="img_contact img_contact_02">
 							<img src="" alt="">
 							<h4><i class="fa fa-user"></i><br><span>Caroline Cugnon</span></h4>
 						</div>
@@ -48,13 +64,13 @@
 							<span>Vice-Présidente BEVC </span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:vicepresident@bruxellesestvolley.be">vicepresident@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:vicepresident@bruxellesestvolley.be"><i class="fa fa-envelope"></i>vicepresident@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_03">
 							<img src="" alt="">
 							<h4><i class="fa fa-user"></i><br><span>Pascal Carabin</span></h4>
 						</div>
@@ -64,135 +80,151 @@
 							<span>Secrétaire </span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:secretaire@bruxellesestvolley.be">secretaire@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:secretaire@bruxellesestvolley.be"><i class="fa fa-envelope"></i>secretaire@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_04">
 							<img src="" alt="">
-							<h4><i class="fa fa-user"></i><br><span>Stéphane Hennaut</span></h4>
+							<h4><i class="fa fa-user"></i><br><span>Chloe Sablon</span></h4>
 						</div>
 					</diV>
 					<div class="infos_contact">
 						<div class="title_contact">
-							<span>Président BEVC </span> <span> administrateur de l'asbl, </span> <span>responsable marketing et communication</span>
+							<span>Marketing </span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:president@bruxellesestvolley.be">president@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:marketing@bruxellesestvolley.be"><i class="fa fa-envelope"></i>marketing@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_05">
 							<img src="" alt="">
-							<h4><i class="fa fa-user"></i><br><span>Stéphane Hennaut</span></h4>
+							<h4><i class="fa fa-user"></i><br><span>Jean Godefroid</span></h4>
 						</div>
 					</diV>
 					<div class="infos_contact">
 						<div class="title_contact">
-							<span>Président BEVC </span> <span> administrateur de l'asbl, </span> <span>responsable marketing et communication</span>
+							<span>Responsable matériel</span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:president@bruxellesestvolley.be">president@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:logistique@bruxellesestvolley.be"><i class="fa fa-envelope"></i>logistique@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_06">
 							<img src="" alt="">
-							<h4><i class="fa fa-user"></i><br><span>Stéphane Hennaut</span></h4>
+							<h4><i class="fa fa-user"></i><br><span>Marc Vandame</span></h4>
 						</div>
 					</diV>
 					<div class="infos_contact">
 						<div class="title_contact">
-							<span>Président BEVC </span> <span> administrateur de l'asbl, </span> <span>responsable marketing et communication</span>
+							<span>Administrateur de l’ASBL et Trésorier </span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:president@bruxellesestvolley.be">president@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:tresorier@bruxellesestvolley.be"><i class="fa fa-envelope"></i>tresorier@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_07">
 							<img src="" alt="">
-							<h4><i class="fa fa-user"></i><br><span>Stéphane Hennaut</span></h4>
+							<h4><i class="fa fa-user"></i><br><span>Guy Bruyr</span></h4>
 						</div>
 					</diV>
 					<div class="infos_contact">
 						<div class="title_contact">
-							<span>Président BEVC </span> <span> administrateur de l'asbl, </span> <span>responsable marketing et communication</span>
+							<span>Responsable sportif jeunes</span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:president@bruxellesestvolley.be">president@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:jeunes@bruxellesestvolley.be"><i class="fa fa-envelope"></i>jeunes@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_08">
 							<img src="" alt="">
-							<h4><i class="fa fa-user"></i><br><span>Stéphane Hennaut</span></h4>
+							<h4><i class="fa fa-user"></i><br><span>Jacques Matthys</span></h4>
 						</div>
 					</diV>
 					<div class="infos_contact">
 						<div class="title_contact">
-							<span>Président BEVC </span> <span> administrateur de l'asbl, </span> <span>responsable marketing et communication</span>
+							<span>Comité Des Fêtes / Arbitrage</span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:president@bruxellesestvolley.be">president@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:comitefetes@bruxellesestvolley.be"><i class="fa fa-envelope"></i>comitefetes@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_09">
 							<img src="" alt="">
-							<h4><i class="fa fa-user"></i><br><span>Stéphane Hennaut</span></h4>
+							<h4><i class="fa fa-user"></i><br><span>Fred Van Steen</span></h4>
 						</div>
 					</diV>
 					<div class="infos_contact">
 						<div class="title_contact">
-							<span>Président BEVC </span> <span> administrateur de l'asbl, </span> <span>responsable marketing et communication</span>
+							<span>Coordinateur jeunes</span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:president@bruxellesestvolley.be">president@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:jeunes@bruxellesestvolley.be"><i class="fa fa-envelope"></i>jeunes@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_10">
 							<img src="" alt="">
-							<h4><i class="fa fa-user"></i><br><span>Stéphane Hennaut</span></h4>
+							<h4><i class="fa fa-user"></i><br><span>Marc Philippart</span></h4>
 						</div>
 					</diV>
 					<div class="infos_contact">
 						<div class="title_contact">
-							<span>Président BEVC </span> <span> administrateur de l'asbl, </span> <span>responsable marketing et communication</span>
+							<span>Secrétaire école des jeunes</span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:president@bruxellesestvolley.be">president@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:jeunes@bruxellesestvolley.be"><i class="fa fa-envelope"></i>jeunes@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
 				<div class="inner_contact">
 					<diV class="header_contact">
-						<div class="img_contact">
+						<div class="img_contact img_contact_11">
+							<img src="" alt="">
+							<h4><i class="fa fa-user"></i><br><span>Sandrine Sorel</span></h4>
+						</div>
+					</diV>
+					<div class="infos_contact">
+						<div class="title_contact">
+							<span>Marketing</span>
+						</div>
+						<diV class="mail_contact">
+							<a href="mailto:marketing@bruxellesestvolley.be"><i class="fa fa-envelope"></i>marketing@bruxellesestvolley.be</a>
+						</diV>
+					</div>
+				</div>
+				<div class="inner_contact">
+					<diV class="header_contact">
+						<div class="img_contact img_contact_12">
 							<img src="" alt="">
 							<h4><i class="fa fa-user"></i><br><span>Cindy Jacob</span></h4>
 						</div>
 					</diV>
 					<div class="infos_contact">
 						<div class="title_contact">
-						<span>Web developer / webmaster</span> <span> Communication instagram </span>
+						<span>Web developer / webmaster </span> <span> Communication instagram </span>
 						</div>
 						<diV class="mail_contact">
-							<p><i class="fa fa-envelope"></i><span><a href="mailto:communication@bruxellesestvolley.be">communication@bruxellesestvolley.be</a></span></p>
+							<a href="mailto:communication@bruxellesestvolley.be">communication@bruxellesestvolley.be</a>
 						</diV>
 					</div>
 				</div>
