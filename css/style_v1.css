@@ -77,9 +77,7 @@ a:hover{
 .container.container_bevc{
 	min-width: 100%;
 }
-/*.content{
-	margin: 0 3rem;
-}*/
+
 /* menu */
 .nav_bevc .nav-item a.nav-link,
 .nav_bevc .nav-item.active a.nav-link{
@@ -643,6 +641,10 @@ a:hover{
 }
 .young_content .info_text_section h4{
 	margin-bottom: 30px;
+}
+.young_content .info_text_section a.btn_link{
+	display: flex;
+	margin: 30px; 
 }
 .young_content .info_text_section .location {
 	display: flex;

@@ -52,7 +52,7 @@
 				</p>
 				<p>En cas d'accident, que mon enfant se blesse, veuillez télécharger et imprimer la déclaration d'accident,
 					 l'envoyer à la fédération après la visite médicale. Vous devez ensuite prévenir Marc Philippart et votre entraineur.<br>
-					<a href="../documents/Declaration Accident ETHIAS.pdf"><button class="btn btn-download">Déclaration d'accident</button></a>
+					<a class="btn_link" href="../documents/Declaration Accident ETHIAS.pdf"><button class="btn btn-download">Déclaration d'accident</button></a>
 				</p>
 				<p>Lors d'un changement de club, c'est au nouveau club de comlêter et de transmettre la demande de transfert à la fédération.</p>
 
