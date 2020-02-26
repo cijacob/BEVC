@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Equipes féminines</title>
+	<title>Equipes masculines</title>
 	<?php include  $location . 'includes/header.php'; ?>
 </head>
 <body>
@@ -13,17 +13,146 @@
 		<?php include $location . 'includes/menu.php';  ?>
 		<div class="pic_presentation">
 			<div class="inner_pic_presentation">
-				<h3 class="title_header_block">Equipes Femmes</h3>
+				<h3 class="title_header_block">Equipes Dames</h3>
 			</div>
 		</div>
 	</header>
 	<main>
 		<div class="container_personnal_content">
 			<div class="title">
-				<h2>Equipe Femmes</h2>
+				<h2>Nos équipe dames</h2>
       </div>
       <div class="team_list">
-
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 1</h3>
+            <h4>Coach: Lorem Ipsum</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 1</h3>
+            <h4>Coach: Lorem Ipsum</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 1</h3>
+            <h4>Coach: Lorem Ipsum</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 1</h3>
+            <h4>Coach: Lorem Ipsum</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 1</h3>
+            <h4>Coach: Lorem Ipsum</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 1</h3>
+            <h4>Coach: Lorem Ipsum</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 1</h3>
+            <h4>Coach: Lorem Ipsum</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 1</h3>
+            <h4>Coach: Lorem Ipsum</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 1</h3>
+            <h4>Coach: Lorem Ipsum</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 1</h3>
+            <h4>Coach: Lorem Ipsum</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
       </div>
 		</div>
 	</main>

@@ -20,10 +20,100 @@
 	<main>
 		<div class="container_personnal_content">
 			<div class="title">
-				<h2>Equipe Hommes</h2>
+				<h2>Nos équipe Hommes</h2>
       </div>
       <div class="team_list">
-
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 2A</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 2A</h3>
+            <h5>Coach: Lorem Ipsum</h5>
+            <h5><a href="mailto:">lorem ipsum</a></h5>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">NATIONAL 2B</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>NATIONAL 2B</h3>
+            <h5>Coach: Lorem Ipsum</h5>
+            <h5><a href="mailto:">lorem ipsum</a></h5>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">Promotion</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>Promotion</h3>
+            <h5>Coach: Lorem Ipsum</h5>
+            <h5><a href="mailto:">lorem ipsum</a></h5>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">Provincial 1</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>Provincial 1</h3>
+            <h5>Coach: Lorem Ipsum</h5>
+            <h5><a href="mailto:">lorem ipsum</a></h5>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">Provincial 3A</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>Provincial 3A</h3>
+            <h5>Coach: Lorem Ipsum</h5>
+            <h5><a href="mailto:">lorem ipsum</a></h5>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">Provincial 3B</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>Provincial 3B</h3>
+            <h5>Coach: Lorem Ipsum</h5>
+            <h5><a href="mailto:">lorem ipsum</a></h5>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">Provincial 3C</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>Provincial 3C</h3>
+            <h5>Coach: Lorem Ipsum</h5>
+            <h5><a href="mailto:">lorem ipsum</a></h5>
+          </div>
+        </div>
       </div>
 		</div>
 	</main>

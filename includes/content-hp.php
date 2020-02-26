@@ -42,6 +42,7 @@
 			</div>
 			<div class="follow_us">
 				<p>Pour plus de photos et vous tenir informés, suivez-vous sur les réseaux sociaux!</p>
+				<p class="hashtag">#BEVC #volleyauderghem #teammates #volleyball</p>
 				<div class="ico_socialmedia">
 					<span><a href="https://www.instagram.com/bruxellesestvolley/"><i class="fa fa-2x fa-instagram"></i></a></span>
 					<span><a href="https://www.facebook.com/BruxellesEstVolleyClub/"><i class="fa fa-2x fa-facebook-square"></i></a></span>
