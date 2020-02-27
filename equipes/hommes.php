@@ -25,7 +25,7 @@
       <div class="team_list">
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="equipe National 1 homme BEVC">
             <div class="team_text">
               <div class="team_text_hover">NATIONAL 2A</div>
             </div>
@@ -51,7 +51,7 @@
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/N2BH.jpg" class="team_image" alt="equipe National 2 homme BEVC">
             <div class="team_text">
               <div class="team_text_hover">Promotion</div>
             </div>
@@ -64,7 +64,7 @@
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/PRH.jpg" class="team_image" alt="equipe Promotion homme BEVC">
             <div class="team_text">
               <div class="team_text_hover">Provincial 1</div>
             </div>
@@ -77,7 +77,7 @@
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/P1H.jpg" class="team_image" alt="equipe P1 homme BEVC">
             <div class="team_text">
               <div class="team_text_hover">Provincial 3A</div>
             </div>
@@ -90,7 +90,7 @@
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/P3BH.png" class="team_image" alt="equipe P3B homme BEVC">
             <div class="team_text">
               <div class="team_text_hover">Provincial 3B</div>
             </div>
@@ -103,7 +103,7 @@
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/P3CH.png" class="team_image" alt="equipe P3C homme BEVC">
             <div class="team_text">
               <div class="team_text_hover">Provincial 3C</div>
             </div>
