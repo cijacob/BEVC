@@ -5,13 +5,13 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Jeunes</title>
+	<title> BEVC | Jeunes</title>
 	<?php include  $location . 'includes/header.php'; ?>
 </head>
 <body>
 	<header>
 		<?php include $location . 'includes/menu.php';  ?>
-		<div class="pic_presentation">
+		<div class="pic_presentation img_bg_jeunes">
 			<div class="inner_pic_presentation">
 				<h3 class="title_header_block">Equipe Jeunes</h3>
 			</div>

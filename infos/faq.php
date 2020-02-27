@@ -5,12 +5,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>F.A.Q</title>
+  <title>BEVC | F.A.Q</title>
   <?php include  $location . 'includes/header.php'; ?>
 </head>
 <body>
   <header>
     <?php include $location . 'includes/menu.php';  ?>
+    <div class="pic_presentation img_bg_faq">
+			<div class="inner_pic_presentation">
+				<h3 class="title_header_block">Foire aux questions</h3>
+			</div>
+		</div>
   </header>
   <main>
     <div class="content">

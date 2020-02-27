@@ -11,7 +11,7 @@
 <body>
 	<header>
 		<?php include $location . 'includes/menu.php';  ?>
-		<div class="pic_presentation">
+		<div class="pic_presentation img_bg_dames">
 			<div class="inner_pic_presentation">
 				<h3 class="title_header_block">Equipes Dames</h3>
 			</div>
@@ -25,130 +25,104 @@
       <div class="team_list">
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/N2D-new.jpg" class="team_image" alt="N2AH">
             <div class="team_text">
-              <div class="team_text_hover">NATIONAL 1</div>
+              <div class="team_text_hover">NATIONAL 2 A</div>
             </div>
           </div>
           <div class="team_infos">
-            <h3>NATIONAL 1</h3>
+            <h3>NATIONAL 2 A</h3>
             <h4>Coach: Lorem Ipsum</h4>
             <h4><a href="mailto:">lorem ipsum</a></h4>
           </div>
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/P1AD.jpg" class="team_image" alt="N2AH">
             <div class="team_text">
-              <div class="team_text_hover">NATIONAL 1</div>
+              <div class="team_text_hover">Provincial 1 A</div>
             </div>
           </div>
           <div class="team_infos">
-            <h3>NATIONAL 1</h3>
+            <h3>Provincial 1 A</h3>
             <h4>Coach: Lorem Ipsum</h4>
             <h4><a href="mailto:">lorem ipsum</a></h4>
           </div>
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/P1BD.jpg" class="team_image" alt="N2AH">
             <div class="team_text">
-              <div class="team_text_hover">NATIONAL 1</div>
+              <div class="team_text_hover">Provincial 1 B</div>
             </div>
           </div>
           <div class="team_infos">
-            <h3>NATIONAL 1</h3>
+            <h3>Provincial 1 B</h3>
             <h4>Coach: Lorem Ipsum</h4>
             <h4><a href="mailto:">lorem ipsum</a></h4>
           </div>
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/P2D.png" class="team_image" alt="N2AH">
             <div class="team_text">
-              <div class="team_text_hover">NATIONAL 1</div>
+              <div class="team_text_hover">Provincial 2</div>
             </div>
           </div>
           <div class="team_infos">
-            <h3>NATIONAL 1</h3>
+            <h3>Provincial 2</h3>
+            <h4>Coach: Fred van Steen</h4>
+            <h4><a href="mailto:">lorem ipsum</a></h4>
+          </div>
+        </div>
+        <div class="team">
+          <div class="container_image">
+            <img src="/images/equipes/P3AD.jpg" class="team_image" alt="N2AH">
+            <div class="team_text">
+              <div class="team_text_hover">Provincial 3 A</div>
+            </div>
+          </div>
+          <div class="team_infos">
+            <h3>Provincial 3 A</h3>
             <h4>Coach: Lorem Ipsum</h4>
             <h4><a href="mailto:">lorem ipsum</a></h4>
           </div>
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/P3BD.jpg" class="team_image" alt="N2AH">
             <div class="team_text">
-              <div class="team_text_hover">NATIONAL 1</div>
+              <div class="team_text_hover">Provincial 3 B</div>
             </div>
           </div>
           <div class="team_infos">
-            <h3>NATIONAL 1</h3>
+            <h3>Provincial 3 B</h3>
             <h4>Coach: Lorem Ipsum</h4>
             <h4><a href="mailto:">lorem ipsum</a></h4>
           </div>
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/P4BD.jpg" class="team_image" alt="N2AH">
             <div class="team_text">
-              <div class="team_text_hover">NATIONAL 1</div>
+              <div class="team_text_hover">Provincial 4 A</div>
             </div>
           </div>
           <div class="team_infos">
-            <h3>NATIONAL 1</h3>
+            <h3>Provincial 4 A</h3>
             <h4>Coach: Lorem Ipsum</h4>
             <h4><a href="mailto:">lorem ipsum</a></h4>
           </div>
         </div>
         <div class="team">
           <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
+            <img src="/images/equipes/P4BD.jpg" class="team_image" alt="N2AH">
             <div class="team_text">
-              <div class="team_text_hover">NATIONAL 1</div>
+              <div class="team_text_hover">Provincial 4 B</div>
             </div>
           </div>
           <div class="team_infos">
-            <h3>NATIONAL 1</h3>
-            <h4>Coach: Lorem Ipsum</h4>
-            <h4><a href="mailto:">lorem ipsum</a></h4>
-          </div>
-        </div>
-        <div class="team">
-          <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
-            <div class="team_text">
-              <div class="team_text_hover">NATIONAL 1</div>
-            </div>
-          </div>
-          <div class="team_infos">
-            <h3>NATIONAL 1</h3>
-            <h4>Coach: Lorem Ipsum</h4>
-            <h4><a href="mailto:">lorem ipsum</a></h4>
-          </div>
-        </div>
-        <div class="team">
-          <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
-            <div class="team_text">
-              <div class="team_text_hover">NATIONAL 1</div>
-            </div>
-          </div>
-          <div class="team_infos">
-            <h3>NATIONAL 1</h3>
-            <h4>Coach: Lorem Ipsum</h4>
-            <h4><a href="mailto:">lorem ipsum</a></h4>
-          </div>
-        </div>
-        <div class="team">
-          <div class="container_image">
-            <img src="/images/equipes/N2AH.jpg" class="team_image" alt="N2AH">
-            <div class="team_text">
-              <div class="team_text_hover">NATIONAL 1</div>
-            </div>
-          </div>
-          <div class="team_infos">
-            <h3>NATIONAL 1</h3>
+            <h3>Provincial 4 B</h3>
             <h4>Coach: Lorem Ipsum</h4>
             <h4><a href="mailto:">lorem ipsum</a></h4>
           </div>

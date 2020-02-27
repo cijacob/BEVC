@@ -11,7 +11,7 @@
 <body>
 	<header>
 		<?php include $location . 'includes/menu.php';  ?>
-		<div class="pic_presentation">
+		<div class="pic_presentation img_bg_hommes">
 			<div class="inner_pic_presentation">
 				<h3 class="title_header_block">Equipes Hommes</h3>
 			</div>
