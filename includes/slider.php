@@ -7,7 +7,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/homepage/slide_05.png" class="d-block w-100" alt="...">
+      <img src="images/homepage/slide_09.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption bloc_infos">
         <h3 class="animated fadeInDown">Nos équipes Hommes</h3>
 				<p class="animated fadeInDown"><a href="<?php echo $location . 'equipes/hommes.php'?>">Découvrir</a></p>

@@ -13,14 +13,14 @@
 		<?php include $location . 'includes/menu.php';  ?>
 		<div class="pic_presentation img_bg_private">
 			<div class="inner_pic_presentation">
-				<h3 class="title_header_block">2022</h3>
+				<h3 class="title_header_block">Objectifs 2022</h3>
 			</div>
 		</div>
 	</header>
 	<main>
 		<div class="container_personnal_content">
       <div class="title">
-				<h2>2022</h2>
+				<h2>Objectifs 2022!</h2>
       </div>
       <div class="intro">
 				<p>

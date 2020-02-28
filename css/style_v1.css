@@ -239,9 +239,43 @@ a:hover{
 }
 .hp__imgHero .imgHero{
 	width: 50%;
+	height: 400px;
+	overflow: hidden;
+	border: 3px solid white;
 }
 .imgHero > img{
 	width: 100%;
+	height: 400px;
+	object-fit: cover;
+	transition-duration: 2s;
+}
+.imgHero:hover > img{
+	transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+		-moz-transform: scale(1.2);
+		z-index: 0;
+}
+.imgHero:nth-child(3n+1) > img{
+	filter: grayscale(1);
+}
+.imgHero  .details_imgHero{
+	width: 300px;
+	height: 100px;
+	z-index: 1;
+	background-color: rgba(0, 0, 0, .5);
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+}
+.imgHero  .details_imgHero h3{
+	color: white;
+	font-family: Colus;
+	align-items: center;
+
+justify-content: center;
+
+display: flex;
 }
 .container_bevc .content .hp__imgGalery .hp__innerGallery{
 	margin: 1.5rem 1rem;

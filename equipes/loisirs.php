@@ -36,14 +36,6 @@
             <h4><a href="mailto:">lorem ipsum</a></h4>
           </div>
         </div>
-        <div class="team">
-          <div class="container_image">
-            <img src="/images/equipes/P1AD.jpg" class="team_image" alt="N2AH">
-            <div class="team_text">
-              <div class="team_text_hover">Provincial 1 A</div>
-            </div>
-          </div>
-        </div>
       </div>
 		</div>
 	</main>
