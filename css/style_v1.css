@@ -226,8 +226,19 @@ a:hover{
 	display: flex;
 	flex-direction: column;
 }
+.hp__imgHero{
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;
+}
+.hp__imgHero .imgHero{
+	width: 50%;
+}
+.imgHero > img{
+	width: 100%;
+}
 .container_bevc .content .hp__imgGalery .hp__innerGallery{
-	margin: 1rem 0.5rem;
+	margin: 1.5rem 1rem;
 }
 .container_bevc .content .hp__imgGalery .gallery{
 	display: flex;
@@ -239,9 +250,9 @@ a:hover{
 	flex: 1 1 auto;
 	width: auto;
 	height: auto;
-	max-width: 300px;
-	min-width: 130px;
-	margin: 2px;
+	max-width: 450px;
+	min-width: 250px;
+	margin: 5px;
 	object-fit: cover;
 }
 .container_bevc .content .hp__imgGalery .follow_us{
@@ -524,7 +535,7 @@ a:hover{
 }
 .inner_contact .header_contact{
 	height: 350px;
-	background-color: rgba(0, 97, 145, 0.45);
+	background-color: rgba(5, 5, 5, 0.45);
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -595,7 +606,7 @@ a:hover{
 }
 .inner_contact .infos_contact{
 	min-height: 150px;
-	background-color: rgba(7, 57, 82, 0.45);
+	background-color: rgba(5, 5, 5, 0.6);
 	padding: 0.5rem
 }
 .inner_contact .infos_contact .title_contact span,

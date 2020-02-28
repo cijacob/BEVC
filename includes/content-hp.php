@@ -26,6 +26,20 @@
 		<div class="title">
 			<h2>Ce weekend en photos!</h2>
 		</div>
+		<div class="hp__imgHero">
+			<div class="imgHero">
+				<img src="https://picsum.photos/800/400?grayscale" alt="" class="inner__imgHero">
+			</div>
+			<div class="imgHero">
+				<img src="https://picsum.photos/800/400?grayscale"  alt="" class="inner__imgHero">
+			</div>
+			<div class="imgHero">
+				<img src="https://picsum.photos/800/400?grayscale"  alt="" class="inner__imgHero">
+			</div>
+			<div class="imgHero">
+				<img src="https://picsum.photos/800/400?grayscale"  alt="" class="inner__imgHero">
+			</div>
+		</div>
 		<div class="hp__innerGallery">
 			<div class="gallery">
 				<img src="https://picsum.photos/200/300" alt="">
@@ -37,8 +51,6 @@
 				<img src="https://picsum.photos/300/300" alt="">
 				<img src="https://picsum.photos/200/300" alt="">
 				<img src="https://picsum.photos/500/300" alt="">
-				<img src="https://picsum.photos/300/300" alt="">
-				<img src="https://picsum.photos/200/300" alt="">
 			</div>
 			<div class="follow_us">
 				<p>Pour plus de photos et vous tenir informés, suivez-vous sur les réseaux sociaux!</p>
