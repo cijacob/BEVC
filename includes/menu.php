@@ -11,7 +11,7 @@
 		<div class="collapse navbar-collapse" id="navbarTogglerDemo03">
 			<ul class="navbar-nav nav_list ml-auto">
 				<li class="nav-item active"><a class="nav-link" href="<?php echo $location . 'index_new.php'?>">Accueil</a></li>
-				<li class="nav-item"><a class="nav-link"  href="<?php echo $location . '2022.php'?>">BEVC 2022</a></li>
+				<li class="nav-item"><a class="nav-link"  href="<?php echo $location . 'news/2022.php'?>">BEVC 2022</a></li>
 				<li class="nav-item"><a class="nav-link" href="<?php echo $location . 'jeunes/jeunes.php'?>">Jeunes</a></li>
 				<li class="nav-item"><a class="nav-link" href="<?php echo $location . 'jeunes/academie.php'?>">Académie</a></li>
 				<li class="nav-item dropdown">
@@ -21,6 +21,7 @@
 					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 						<a class="dropdown-item" href="<?php echo $location . 'equipes/femmes.php'?>">Dames</a>
 						<a class="dropdown-item" href="<?php echo $location . 'equipes/hommes.php'?>">Homes</a>
+						<a class="dropdown-item" href="<?php echo $location . 'equipes/loisirs.php'?>">Loisirs</a>
 						<a class="dropdown-item" href="<?php echo $location . 'jeunes/jeunes.php'?>">Jeunes</a>
 					</div>
 				</li>

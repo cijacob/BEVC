@@ -51,7 +51,7 @@ header .pic_presentation.img_bg_dames{
 	background-image: url('../images/background/bg_jeunes.png');
 }
 header .pic_presentation.img_bg_hommes{
-	background-image: url('../images/background/bg_jeunes.png');
+	background-image: url('../images/homepage/slide_08.png');
 }
 header .pic_presentation.img_bg_faq{
 	background-image: url('../images/background/bg_jeunes.png');
@@ -170,7 +170,9 @@ a:hover{
 	color: black;
 	padding: 0 1.5rem;
 }
+
 /* border blue*/
+
 .title{
 	height: 40px;
 	background: #025BF5;
@@ -198,7 +200,9 @@ a:hover{
 	margin-left: 15px;
 	margin-top: 20px;
 }
+
 /* end border blue */
+
 /* Button */
 
 .btn{
@@ -219,8 +223,8 @@ a:hover{
 }
 
 
-
 /* end Button */
+
 .container.container_bevc{
 	padding: 0;
 }
@@ -343,7 +347,9 @@ a:hover{
 .container.container_bevc .sponsors .spon_18{
 	background-image: url('../images/sponsors/vacances.png');
 }
+
 /* slide */
+
 .carousel-item{
 	height: 100vh; 
 	min-height:300px;
@@ -388,6 +394,7 @@ a:hover{
 /**
  * Change animation duration
  */
+
 .animated {
   -webkit-animation-duration: 1.5s;
   animation-duration: 1.5s;
