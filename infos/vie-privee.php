@@ -11,9 +11,9 @@
 <body>
 	<header>
 		<?php include $location . 'includes/menu.php';  ?>
-		<div class="pic_presentation img_bg_academie">
+		<div class="pic_presentation img_bg_private">
 			<div class="inner_pic_presentation">
-				<h3 class="title_header_block">Académie</h3>
+				<h3 class="title_header_block">Vie privée</h3>
 			</div>
 		</div>
 	</header>

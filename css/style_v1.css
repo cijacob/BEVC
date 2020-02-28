@@ -65,7 +65,9 @@ header .pic_presentation.img_bg_salles{
 header .pic_presentation.img_bg_dames{
 	background-image: url('../images/background/bg_jeunes.png');
 }
-
+header .pic_presentation.img_bg_private{
+	background-image: url('../images/background/bg_jeunes.png');
+}
 
 
 /* header differents sections */ 
