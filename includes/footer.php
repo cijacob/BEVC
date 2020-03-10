@@ -1,13 +1,3 @@
-<!--<div id="footer_right">
-	<div class="footerheaderX">Liens</div>
-	<div class="footerbodyX">
-		<a href="http://www.cocof.irisnet.be/" target="_blank"><img src="<?php echo $location . 'images/sponsors/cocof.jpg'?>" alt="" class="img1st"/></a>
-		<a href="http://www.bruxelles.irisnet.be/" target="_blank"><img src="<?php echo $location . 'images/sponsors/iris-v2.gif'?>" alt="" class="img1st"/></a>
-		<a href="https://www.fvwb.be" target="_blank"><img src="<?php echo $location . 'images/sponsors/FVWB.jpeg'?>" alt="" class="img1st"/></a>
-		<a href="http://www.adeps.be/" target="_blank"><img src="<?php echo $location . 'images/sponsors/adeps.jpg'?>" alt="" class="img1st"/></a>
-		<a href="http://www.adeps.be/index.php?id=4667" target="_blank"><img src="<?php echo $location . 'images/sponsors/adeps-vivons-sport.jpg'?>" alt="" class="img2nd"/></a>
-	</div>
-</div>-->
 <div class="footer_contact">
 	<div class="contact_us">
     <h5>Bruxelles Est Volley Club</h5>

@@ -54,19 +54,20 @@
 		</div>
 		<div class="hp__innerGallery">
 			<div class="gallery">
-				<img src="https://picsum.photos/200/300" alt="BEVC photos de match">
-				<img src="https://picsum.photos/400/300" alt="BEVC photos de match">
-				<img src="https://picsum.photos/400/300" alt="BEVC photos de match">
-				<img src="https://picsum.photos/300/300" alt="BEVC photos de match">
-				<img src="https://picsum.photos/200/300" alt="BEVC photos de match">
-				<img src="https://picsum.photos/200/300" alt="BEVC photos de match">
-				<img src="https://picsum.photos/300/300" alt="BEVC photos de match">
-				<img src="https://picsum.photos/200/300" alt="BEVC photos de match">
-				<img src="https://picsum.photos/500/300" alt="BEVC photos de match">
+				<img src="../images/matches/little_pictures/little_pic_01.png" alt="BEVC photos de match">
+				<img src="../images/matches/little_pictures/little_pic_02.png" alt="BEVC photos de match">
+				<img src="../images/matches/little_pictures/little_pic_03.png" alt="BEVC photos de match">
+				<img src="../images/matches/little_pictures/little_pic_04.png" alt="BEVC photos de match">
+				<img src="../images/matches/little_pictures/little_pic_05.png" alt="BEVC photos de match">
+				<img src="../images/matches/little_pictures/little_pic_06.png" alt="BEVC photos de match">
+				<img src="../images/matches/little_pictures/little_pic_07.png" alt="BEVC photos de match">
+				<img src="../images/matches/little_pictures/little_pic_08.png" alt="BEVC photos de match">
+				<img src="../images/matches/little_pictures/little_pic_09.png" alt="BEVC photos de match">
 			</div>
 			<div class="follow_us">
 				<p>Pour plus de photos et vous tenir informés, suivez-vous sur les réseaux sociaux!</p>
 				<p class="hashtag">#BEVC #volleyauderghem #teammates #volleyball</p>
+				<p>Vous avez des chouettes photos que vous souhaitez faire partager?!? <br> n'hésitez pas à contacter nos community managers! <a href="communication@bruxellesestvolley.be">communication@bruxellesestvolley.be</a></br></p>
 				<div class="ico_socialmedia">
 					<span><a href="https://www.instagram.com/bruxellesestvolley/"><i class="fa fa-2x fa-instagram"></i></a></span>
 					<span><a href="https://www.facebook.com/BruxellesEstVolleyClub/"><i class="fa fa-2x fa-facebook-square"></i></a></span>

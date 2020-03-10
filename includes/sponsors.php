@@ -1,4 +1,9 @@
 <div class="sponsors">
+	<a href="http://www.cocof.irisnet.be/" target="_blank" alt="" class="img_sponsor part_1"></a>
+	<a href="http://www.bruxelles.irisnet.be/" target="_blank" alt="" class="img_sponsor part_2"></a>
+	<a href="https://www.fvwb.be" target="_blank" alt="" class="img_sponsor part_3"></a>
+	<a href="http://www.adeps.be/" target="_blank" alt="" class="img_sponsor part_4"></a>
+	<a href="http://www.adeps.be/index.php?id=4667" target="_blank" alt="" class="img_sponsor part_5"></a>
 	<a href="https://www.fintro.be/" target="_blank" class="img_sponsor spon_1"></a>
 	<a href="http://www.partenamut.be/" target="_blank" class="img_sponsor spon_2"></a>
 	<a href="http://saifor.net//" target="_blank" class="img_sponsor spon_3"></a>
