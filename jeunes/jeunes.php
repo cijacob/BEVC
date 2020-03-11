@@ -23,7 +23,7 @@
 				<p>Nous vous remercions d'avoir choisi le BEVC pour la pratique du volley ball. 
 					Vous aurez la possibilité d'accompagner, d'encourager et de voir évoluer votre enfant.</p>
 				<p>Vous trouverez toutes les informations concernant 
-					l'équipe jeune mais aussi concernant l'académie.
+					l'équipe jeune.
 				</p>
 			</div>
 			<div class="title">

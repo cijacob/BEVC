@@ -28,9 +28,9 @@
 		</div>
 		<div class="hp__imgHero">
 			<div class="imgHero">
-				<img src="../images/matches/big-picture-hp__02.jpg" alt="BEVC photos de match" class="inner__imgHero">
+				<img src="../images/matches/big-picture-hp__02.jpg" alt="BEVC photos de match" class="inner__imgHero" data-text="P3 Dames">
 				<div class="details_imgHero">
-					<h3>P3 D</h3>
+					<h3></h3>
 				</div>
 			</div>
 			<div class="imgHero">
