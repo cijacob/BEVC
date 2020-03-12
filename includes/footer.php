@@ -15,6 +15,6 @@
 	</div>
 </div>
 <div class="footer__privateLife">
-	<p> © 2020 BEVC | Made with love by <a href="https://www.qscar.be"> Qscar digital </a></p>
 	<p><a href="<?php echo $location . 'infos/vie-privee.php'?>"> Charte sur la vie privée </a></p>
+	<p> © 2020 BEVC | Made with love by <a href="https://www.qscar.be"> Qscar digital </a></p>
 </div>

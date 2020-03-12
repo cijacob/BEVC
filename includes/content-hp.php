@@ -28,27 +28,27 @@
 		</div>
 		<div class="hp__imgHero">
 			<div class="imgHero">
-				<img src="../images/matches/big-picture-hp__02.jpg" alt="BEVC photos de match" class="inner__imgHero" data-text="P3 Dames">
+				<img src="../images/matches/big-picture-hp__02.jpg" alt="BEVC photos de match" class="inner__imgHero">
 				<div class="details_imgHero">
-					<h3></h3>
+					<h3>N2 Dames</h3>
 				</div>
 			</div>
 			<div class="imgHero">
 				<img src="../images/matches/big-picture-hp__03.jpg"  alt="BEVC photos de match" class="inner__imgHero">
 				<div class="details_imgHero">
-					<h3>P3 D</h3>
+					<h3>P3 Dames</h3>
 				</div>
 			</div>
 			<div class="imgHero">
 				<img src="../images/matches/big-picture-hp__04.jpg"  alt="BEVC photos de match" class="inner__imgHero">
 				<div class="details_imgHero">
-					<h3>P3 D</h3>
+					<h3>P1 Dames</h3>
 				</div>
 			</div>
 			<div class="imgHero">
 				<img src="../images/matches/big-picture-hp__05.jpg"  alt="BEVC photos de match" class="inner__imgHero">
 				<div class="details_imgHero">
-					<h3>P3 D</h3>
+					<h3>P1 Hommes</h3>
 				</div>
 			</div>
 		</div>
