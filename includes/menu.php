@@ -35,7 +35,6 @@
 						<a class="dropdown-item" href="<?php echo $location . 'infos/faq.php'?>">FAQ</a>
 					</div>
 				</li>
-				<li class="nav-item"><a class="nav-link"  href="<?php echo $location . 'photos/2019-2020.php'?>">Photos</a></li>
 				<li class="nav-item"><a  class="nav-link" href="<?php echo $location . 'presse/2018-2019.php'?>">Presse</a></li>
 				<li class="nav-item"><a class="nav-link" href="<?php echo $location . 'historique/historique-sportif.php'?>">Classement</a></li>
 			</ul>

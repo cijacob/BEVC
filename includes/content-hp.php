@@ -6,7 +6,7 @@
 				Notre club est issu de la fusion des clubs d’Eveil Volley (Auderghem) et d’Espace Volley (Woluwé) opérée en 2009. 
 				Cette dernière a été effectuée dans le but de développer un club fort dans lequel une pyramide de formation pourrait nous permettre d’atteindre un jour le haut niveau.
 			</p>
-			<p>En effet, à ce jour, aucun club bruxellois n’aligne d’équipe au top niveau.
+			<p>En effet, à ce jour, aucun club bruxellois n’aligne autant d’équipes au top niveau.
 				Défis que le BEVC tentera de relever dans les années à venir. Mais pas à n’importe quel prix ! 
 				Nous voulons développer une structure stable avec une vision à long terme. Cela commence par la formation des jeunes.
 			</p>

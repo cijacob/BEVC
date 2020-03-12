@@ -68,6 +68,10 @@ header .pic_presentation.img_bg_dames{
 header .pic_presentation.img_bg_private{
 	background-image: url('../images/background/bg_jeunes.png');
 }
+header .pic_presentation.img_bg_presse{
+	background-image: url('../images/background/bank-phrom-press-unsplash.jpg');
+}
+
 
 
 /* header differents sections */ 
@@ -836,4 +840,16 @@ display: flex;
 	color: #025BF5;
 	text-transform: uppercase;
 	padding: 1em;
+}
+
+
+/* PRESS SECTION */
+
+.content_press{
+	display: flex;
+	justify-content: space-evenly;
+	margin: 100px 0 50px;
+}
+.content_press .inner__content_press{
+	box-shadow: 2px 2px 8px 1px rgba(0, 0, 0, 0.1);
 }
